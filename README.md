@@ -27,6 +27,6 @@ Works on desktop, tablet and mobile devices.
 
 ## 👨‍💻 Author
 
-**Syed Zayarizvi**
+**Syed Shuja Abbas**
 
 GitHub: https://github.com/syedzayarizvi
