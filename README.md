@@ -64,4 +64,4 @@ JavaScript logic** while building a real-world interactive application.
 
   ## 📸 Preview
 
-![Smart Calculator Preview](assets/screenshots/calculator-preview.png.png)
+![Smart Calculator Preview](assets/screenshots/calculator-preview.png)
