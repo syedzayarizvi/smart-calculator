@@ -61,3 +61,7 @@ JavaScript logic** while building a real-world interactive application.
 - `script.js` — Calculator logic and functionality
 - `README.md` — Project documentation
 - `assets/` — Images and screenshots
+
+  ## 📸 Preview
+
+![Smart Calculator Preview](assets/screenshots/calculator-preview.png)
