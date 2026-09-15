@@ -54,12 +54,10 @@ JavaScript logic** while building a real-world interactive application.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
-smart-calculator/
-│
-├── index.html      # Calculator structure
-├── style.css       # Design and responsive layout
-├── script.js       # Calculator logic
-└── README.md       # Project documentation
+- `index.html` — Calculator structure
+- `style.css` — Modern UI and responsive design
+- `script.js` — Calculator logic and functionality
+- `README.md` — Project documentation
+- `assets/` — Images and screenshots
